@@ -3,7 +3,7 @@ author: Peter Ilves
 description: > # this means to ignore newlines until "baseurl:"
   WAKE UP. Too much to do.
 baseurl: ""
-twitter_username: lemuelroberto
+twitter_username: DrPeterILVES
 
 minima:
   date_format: "%b, %Y"
