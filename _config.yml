@@ -6,7 +6,7 @@ baseurl: ""
 twitter_username: lemuelroberto
 
 minima:
-  date_format: "%b %-d, %Y"
+  date_format: "%b, %Y"
 
 exclude:
   - README.md
